@@ -287,13 +287,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8NN7WLHYCN;
+				DEVELOPMENT_TEAM = PGQ27XQ5YU;
 				INFOPLIST_FILE = "SolarSystem (without code)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.westcostyle.SolarSystem--without-code-";
+				PRODUCT_BUNDLE_IDENTIFIER = "go.westcostyle.SolarSystem--without-code-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -305,13 +305,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 8NN7WLHYCN;
+				DEVELOPMENT_TEAM = PGQ27XQ5YU;
 				INFOPLIST_FILE = "SolarSystem (without code)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.westcostyle.SolarSystem--without-code-";
+				PRODUCT_BUNDLE_IDENTIFIER = "go.westcostyle.SolarSystem--without-code-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
